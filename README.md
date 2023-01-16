@@ -1,6 +1,10 @@
 # social_signin_buttons
 
-A Flutter package for both android and iOS which provides Social signIn Buttons
+
+A Flutter package for both android and iOS which provides Social signIn Buttons (testing)
+
+Follow this blog:
+https://medium.com/dscddu/how-to-create-flutter-package-and-publish-it-on-pub-dev-34913475cf55
 
 ## Screenshots
 
